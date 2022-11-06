@@ -1,0 +1,95 @@
+﻿  AIComponent.cpp
+C:\repo\SFML_RPG-master\SFML_RPG\stdafx.h(23,10): fatal error C1083: Cannot open include file: 'SFML\System.hpp': No such file or directory
+  AIFollow.cpp
+C:\repo\SFML_RPG-master\SFML_RPG\stdafx.h(23,10): fatal error C1083: Cannot open include file: 'SFML\System.hpp': No such file or directory
+  AIOption.cpp
+C:\repo\SFML_RPG-master\SFML_RPG\stdafx.h(23,10): fatal error C1083: Cannot open include file: 'SFML\System.hpp': No such file or directory
+  AnimationComponent.cpp
+C:\repo\SFML_RPG-master\SFML_RPG\stdafx.h(23,10): fatal error C1083: Cannot open include file: 'SFML\System.hpp': No such file or directory
+  AttributeComponent.cpp
+C:\repo\SFML_RPG-master\SFML_RPG\stdafx.h(23,10): fatal error C1083: Cannot open include file: 'SFML\System.hpp': No such file or directory
+  Bird1.cpp
+C:\repo\SFML_RPG-master\SFML_RPG\stdafx.h(23,10): fatal error C1083: Cannot open include file: 'SFML\System.hpp': No such file or directory
+  Bow.cpp
+C:\repo\SFML_RPG-master\SFML_RPG\stdafx.h(23,10): fatal error C1083: Cannot open include file: 'SFML\System.hpp': No such file or directory
+  CharacterTab.cpp
+C:\repo\SFML_RPG-master\SFML_RPG\stdafx.h(23,10): fatal error C1083: Cannot open include file: 'SFML\System.hpp': No such file or directory
+  DefaultEditorMode.cpp
+C:\repo\SFML_RPG-master\SFML_RPG\stdafx.h(23,10): fatal error C1083: Cannot open include file: 'SFML\System.hpp': No such file or directory
+  EditorMode.cpp
+C:\repo\SFML_RPG-master\SFML_RPG\stdafx.h(23,10): fatal error C1083: Cannot open include file: 'SFML\System.hpp': No such file or directory
+  Enemy.cpp
+C:\repo\SFML_RPG-master\SFML_RPG\stdafx.h(23,10): fatal error C1083: Cannot open include file: 'SFML\System.hpp': No such file or directory
+  EnemyEditorMode.cpp
+C:\repo\SFML_RPG-master\SFML_RPG\stdafx.h(23,10): fatal error C1083: Cannot open include file: 'SFML\System.hpp': No such file or directory
+  EnemySpawnerTile.cpp
+C:\repo\SFML_RPG-master\SFML_RPG\stdafx.h(23,10): fatal error C1083: Cannot open include file: 'SFML\System.hpp': No such file or directory
+  EnemySystem.cpp
+C:\repo\SFML_RPG-master\SFML_RPG\stdafx.h(23,10): fatal error C1083: Cannot open include file: 'SFML\System.hpp': No such file or directory
+  GraphicsSettings.cpp
+C:\repo\SFML_RPG-master\SFML_RPG\stdafx.h(23,10): fatal error C1083: Cannot open include file: 'SFML\System.hpp': No such file or directory
+  Gui.cpp
+C:\repo\SFML_RPG-master\SFML_RPG\stdafx.h(23,10): fatal error C1083: Cannot open include file: 'SFML\System.hpp': No such file or directory
+  EditorState.cpp
+C:\repo\SFML_RPG-master\SFML_RPG\stdafx.h(23,10): fatal error C1083: Cannot open include file: 'SFML\System.hpp': No such file or directory
+  Entity.cpp
+C:\repo\SFML_RPG-master\SFML_RPG\stdafx.h(23,10): fatal error C1083: Cannot open include file: 'SFML\System.hpp': No such file or directory
+  Game.cpp
+C:\repo\SFML_RPG-master\SFML_RPG\stdafx.h(23,10): fatal error C1083: Cannot open include file: 'SFML\System.hpp': No such file or directory
+  GameState.cpp
+C:\repo\SFML_RPG-master\SFML_RPG\stdafx.h(23,10): fatal error C1083: Cannot open include file: 'SFML\System.hpp': No such file or directory
+  Generating Code...
+  Compiling...
+  HitboxComponent.cpp
+C:\repo\SFML_RPG-master\SFML_RPG\stdafx.h(23,10): fatal error C1083: Cannot open include file: 'SFML\System.hpp': No such file or directory
+  Inventory.cpp
+C:\repo\SFML_RPG-master\SFML_RPG\stdafx.h(23,10): fatal error C1083: Cannot open include file: 'SFML\System.hpp': No such file or directory
+  Item.cpp
+C:\repo\SFML_RPG-master\SFML_RPG\stdafx.h(23,10): fatal error C1083: Cannot open include file: 'SFML\System.hpp': No such file or directory
+  main.cpp
+C:\repo\SFML_RPG-master\SFML_RPG\stdafx.h(23,10): fatal error C1083: Cannot open include file: 'SFML\System.hpp': No such file or directory
+  MainMenuState.cpp
+C:\repo\SFML_RPG-master\SFML_RPG\stdafx.h(23,10): fatal error C1083: Cannot open include file: 'SFML\System.hpp': No such file or directory
+  MeleeWeapon.cpp
+C:\repo\SFML_RPG-master\SFML_RPG\stdafx.h(23,10): fatal error C1083: Cannot open include file: 'SFML\System.hpp': No such file or directory
+  MovementComponent.cpp
+C:\repo\SFML_RPG-master\SFML_RPG\stdafx.h(23,10): fatal error C1083: Cannot open include file: 'SFML\System.hpp': No such file or directory
+  PauseMenu.cpp
+C:\repo\SFML_RPG-master\SFML_RPG\stdafx.h(23,10): fatal error C1083: Cannot open include file: 'SFML\System.hpp': No such file or directory
+  PlayerGUI.cpp
+C:\repo\SFML_RPG-master\SFML_RPG\stdafx.h(23,10): fatal error C1083: Cannot open include file: 'SFML\System.hpp': No such file or directory
+  PlayerGUITabs.cpp
+C:\repo\SFML_RPG-master\SFML_RPG\stdafx.h(23,10): fatal error C1083: Cannot open include file: 'SFML\System.hpp': No such file or directory
+  RangedWeapon.cpp
+C:\repo\SFML_RPG-master\SFML_RPG\stdafx.h(23,10): fatal error C1083: Cannot open include file: 'SFML\System.hpp': No such file or directory
+  Rat.cpp
+C:\repo\SFML_RPG-master\SFML_RPG\stdafx.h(23,10): fatal error C1083: Cannot open include file: 'SFML\System.hpp': No such file or directory
+  RegularTile.cpp
+C:\repo\SFML_RPG-master\SFML_RPG\stdafx.h(23,10): fatal error C1083: Cannot open include file: 'SFML\System.hpp': No such file or directory
+  SkillComponent.cpp
+C:\repo\SFML_RPG-master\SFML_RPG\stdafx.h(23,10): fatal error C1083: Cannot open include file: 'SFML\System.hpp': No such file or directory
+  stdafx.cpp
+C:\repo\SFML_RPG-master\SFML_RPG\stdafx.h(23,10): fatal error C1083: Cannot open include file: 'SFML\System.hpp': No such file or directory
+  Player.cpp
+C:\repo\SFML_RPG-master\SFML_RPG\stdafx.h(23,10): fatal error C1083: Cannot open include file: 'SFML\System.hpp': No such file or directory
+  SettingsState.cpp
+C:\repo\SFML_RPG-master\SFML_RPG\stdafx.h(23,10): fatal error C1083: Cannot open include file: 'SFML\System.hpp': No such file or directory
+  State.cpp
+C:\repo\SFML_RPG-master\SFML_RPG\stdafx.h(23,10): fatal error C1083: Cannot open include file: 'SFML\System.hpp': No such file or directory
+  Sword.cpp
+C:\repo\SFML_RPG-master\SFML_RPG\stdafx.h(23,10): fatal error C1083: Cannot open include file: 'SFML\System.hpp': No such file or directory
+  Tab.cpp
+C:\repo\SFML_RPG-master\SFML_RPG\stdafx.h(23,10): fatal error C1083: Cannot open include file: 'SFML\System.hpp': No such file or directory
+  Generating Code...
+  Compiling...
+  TextTagSystem.cpp
+C:\repo\SFML_RPG-master\SFML_RPG\stdafx.h(23,10): fatal error C1083: Cannot open include file: 'SFML\System.hpp': No such file or directory
+  Tile.cpp
+C:\repo\SFML_RPG-master\SFML_RPG\stdafx.h(23,10): fatal error C1083: Cannot open include file: 'SFML\System.hpp': No such file or directory
+  TileMap.cpp
+C:\repo\SFML_RPG-master\SFML_RPG\stdafx.h(23,10): fatal error C1083: Cannot open include file: 'SFML\System.hpp': No such file or directory
+  VectorMath.cpp
+C:\repo\SFML_RPG-master\SFML_RPG\stdafx.h(23,10): fatal error C1083: Cannot open include file: 'SFML\System.hpp': No such file or directory
+  Weapon.cpp
+C:\repo\SFML_RPG-master\SFML_RPG\stdafx.h(23,10): fatal error C1083: Cannot open include file: 'SFML\System.hpp': No such file or directory
+  Generating Code...
